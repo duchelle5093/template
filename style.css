@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:  BIZ UDGothic,  sans-serif;
+    background-color:#45186B ;
+    /*background: url(etoile_filter.svg) center/cover;*/
+    /* background-image: url(/) ; */
+}
+h1,p{
+    color: #C2E6EF;
+    font-weight: bold;
+}
+p{
+    font-size: 1.5em;
+}
+h1{
+    font-size: 3em;
+}
+
+.section1 img{
+    width: 50%;
+    height: 100%;
+    position: fixed;
+    z-index: 0;
+    
+}
+.section2 .petit{
+    rotate: 180deg;
+    width: 30px;
+    position: absolute;
+    bottom: 67%;
+    left: 78%;
+
+}
+.section2 .grand:{
+    width: 100%;
+    height: 100%;
+}
+
+
+.section2{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 80px;
+}
+.img-text{
+    width: 32.5vw;
+    background-color: #45186B ;
+    padding: 20px 5px 5px 5px;
+    margin-top: 60px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.img-text p{
+    text-align: start;
+    line-height: 40px;
+}
+
+.section3 .petit{
+    rotate: 180deg;
+    width: 30px;
+    position: absolute;
+    bottom: 90%;
+    left: 78%;
+
+}
+.section3 .grand:{
+    width: 100%;
+    height: 100%;
+}
+
+
+.section3{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 480px;
+}
+.section4 .petit{
+    rotate: 180deg;
+    width: 30px;
+    position: absolute;
+    bottom: 90%;
+    left: 78%;
+
+}
+.section4 .grand:{
+    width: 100%;
+    height: 100%;
+}
+
+
+.section4{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 770px;
+}
+.section5 .petit{
+    rotate: 180deg;
+    width: 30px;
+    position: absolute;
+    bottom: 90%;
+    left: 78%;
+
+}
+.section5 .grand:{
+    width: 100%;
+    height: 100%;
+}
+
+
+.section5{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 1065px;
+}
+.section6 .petit{
+    rotate: 180deg;
+    width: 30px;
+    position: absolute;
+    bottom: 90%;
+    left: 78%;
+
+}
+.section6 .grand:{
+    width: 100%;
+    height: 100%;
+}
+
+.section6{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 1350px;
+}
+/* .petit
+{
+    display:none;
+    transition-delay: 200ms;
+    
+}
+ .img-text:hover .petit{
+    display:block;
+   
+}
+
+.grand{
+    display:none;
+    transition-duration: 100ms;
+ 
+}
+
+.img-text:hover .grand{
+    display:block;
+   
+}  */
+
+
+
